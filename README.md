@@ -19,5 +19,8 @@ html 구조를 구성하는 태그
 <body> : 본문
 <head> : 본문을 설명하는 태그
 <html> : body태그와 head 태그를 감싸는 태그
-<!doctype html> : 웹페이지가 html로 만들어졌다는 걸 표현
+<!doctype html> : 웹페이지가 html로 만들어졌다는 걸 표
+
+<a href> : 웹에 있는 내용들을 연결. anchor. href(Hypertext Reference)
+
 ```
